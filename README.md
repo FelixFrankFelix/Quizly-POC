@@ -13,7 +13,7 @@ The project follows a client-server architecture:
 1. **Frontend**: Streamlit web application that provides the user interface
 2. **API Layer**: FastAPI service that handles quiz generation requests
 3. **Backend Logic**: Core quiz generation functionality powered by AWS Bedrock and Claude AI
-4. **Vector Database**: Pinecone for context storage and retrieval
+4. **Vector Database**: Pinecone for context storage and retrieval (Coming Soon)
 
 ### Architecture Diagram
 
