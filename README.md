@@ -67,7 +67,7 @@ aws configure
 
 1. Start the FastAPI server:
 ```bash
-python controller.py
+uvicorn controller:app --reload
 ```
 
 2. In a separate terminal, start the Streamlit app:
