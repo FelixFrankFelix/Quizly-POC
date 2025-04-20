@@ -49,8 +49,8 @@ The project follows a client-server architecture:
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/ai-quiz-generator.git
-cd ai-quiz-generator
+git https://github.com/FelixFrankFelix/Quizly-POC.git
+cd Quizly-POC
 ```
 
 2. Install dependencies

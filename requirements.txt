@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+pydantic
+streamlit
+boto3
+mangum
